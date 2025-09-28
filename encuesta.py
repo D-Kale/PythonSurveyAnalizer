@@ -4,9 +4,6 @@ Script de Análisis y Graficación para Encuestas de Investigación.
 Tema general: Innovación Pedagógica y Práctica Docente en la Era Digital
 Tema específico: Nivel de Integración pedagógica en las herramientas tecnológicas enfocada a los docente de secundaria en el Colegio Santa Luisa de Marillac para los estudiantes de undécimo año a durante el año 2025
 
-Autor: Andres Francisco Sanchez Santana
-Institución: Colegio Santa Luisa de Marillac, Managua, Nicaragua
-
 Fecha de Creación: Septiembre 2025
 Propósito: Procesa datos JSON de encuestas (respuestas cerradas) para calcular 
            frecuencias y porcentajes, y genera visualizaciones PNG con Matplotlib.
